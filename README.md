@@ -1,2 +1,2 @@
 # Iris AI
-Iris AI is an application  that utilizes the cameras in a laptop to prevent eye strain caused by a lack of blinking
+IRIS AI is a camera-powered desktop app that gives real-time alerts for screen-related eye strain by tracking blinking, screen distance and screen time, along with personalized stats and eye exercises.
